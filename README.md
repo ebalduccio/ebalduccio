@@ -16,7 +16,6 @@ Sou um desenvolvedor frontend apaixonado por criar experiências web interativas
 ### 🚀 Destaques
 
 - 🏢 Atualmente trabalho na **Investor Acumen**, uma empresa americana, onde faço manutenção e melhorias no site corporativo.
-- 📝 Mantenho um [blog pessoal](https://github.com/ebalduccio/james_website) onde compartilho meus conhecimentos e experiências em desenvolvimento web.
 - 🎨 Especialista em Figma, criando designs de interface intuitivos e visualmente atraentes.
 - 📚 Estou estudando tecnologias backend para me tornar um desenvolvedor fullstack.
 
