@@ -2,7 +2,7 @@
 
 ## 💻 Desenvolvedor Frontend | UI/UX Designer
 
-Sou um desenvolvedor frontend apaixonado por criar experiências web interativas e responsivas. Com habilidades sólidas em design de interface, combino criatividade e código para entregar produtos digitais excepcionais. Atualmente, estou expandindo meus horizontes para me tornar um desenvolvedor fullstack. Sou um desenvolvedor frontend apaixonado por criar experiências web interativas e responsivas. Atualmente, estou expandindo meus horizontes para me tornar um desenvolvedor fullstack.
+Sou um desenvolvedor frontend apaixonado por criar experiências web interativas e responsivas. Com habilidades sólidas em design de interface, combino criatividade e código para entregar produtos digitais excepcionais. Atualmente, estou expandindo meus horizontes para me tornar um desenvolvedor fullstack.
 
 ### 🔧 Tecnologias & Ferramentas
 
