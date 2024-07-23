@@ -32,6 +32,7 @@ Sou um desenvolvedor frontend apaixonado por criar experiências web interativas
 - GitHub: [@ebalduccio](https://github.com/ebalduccio)
 - LinkedIn: [/enzobalduccio](https://www.linkedin.com/in/enzobalduccio/)
 - Email: enzobalduccio@gmail.com
+- WhatsApp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5571993488260)
 
 ### 📊 Estatísticas do GitHub
 
