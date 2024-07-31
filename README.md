@@ -36,7 +36,7 @@ Sou um desenvolvedor frontend apaixonado por criar experiências web interativas
 ### 🎯 Objetivos para 2024
 
 - [ ] Contribuir para projetos open source
-- [ ] Lançar meu primeiro projeto fullstack
+- [x] Lançar meu primeiro projeto fullstack
 
 ---
 
