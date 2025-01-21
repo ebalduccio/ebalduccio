@@ -15,7 +15,7 @@ Sou um desenvolvedor frontend apaixonado por criar experiências web interativas
 
 ### 🚀 Destaques
 
-- 🏢 Atualmente trabalho na **Investor Acumen**, uma empresa americana, onde faço manutenção e melhorias no site corporativo.
+- 🏢 Trabalhei na **Investor Acumen**, uma empresa americana, onde fazia manutenção e melhorias no site corporativo.
 - 🎨 Especialista em Figma, criando designs de interface intuitivos e visualmente atraentes.
 - 📚 Estou estudando tecnologias backend para me tornar um desenvolvedor fullstack.
 
