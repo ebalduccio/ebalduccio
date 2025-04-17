@@ -33,11 +33,6 @@ Sou um desenvolvedor frontend apaixonado por criar experiências web interativas
 - Email: enzobalduccio@gmail.com
 - WhatsApp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5571993488260)
 
-### 🎯 Objetivos para 2025
-
-- [ ] Contribuir para projetos open source
-- [x] Lançar meu primeiro projeto fullstack
-
 ---
 
 ⭐️ De [ebalduccio](https://github.com/ebalduccio)
