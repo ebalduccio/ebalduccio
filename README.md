@@ -1,4 +1,4 @@
-# Olá, eu sou Enzo Balduccio! 👋
+# Enzo Balduccio
 
 ## 💻 Desenvolvedor Frontend | UI/UX Designer
 
