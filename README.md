@@ -19,13 +19,6 @@ Sou um desenvolvedor frontend apaixonado por criar experiências web interativas
 - 🎨 Especialista em Figma, criando designs de interface intuitivos e visualmente atraentes.
 - 📚 Estou estudando tecnologias backend para me tornar um desenvolvedor fullstack.
 
-### 🌱 O que estou aprendendo
-
-- Aprofundando meus conhecimentos em React e Next.js
-- Explorando o ecossistema backend (Node.js, Express, Databases)
-- Práticas de DevOps e CI/CD
-- Avançando em técnicas de design de interface e prototipagem com Figma
-
 ### 📫 Como me encontrar
 
 - GitHub: [@ebalduccio](https://github.com/ebalduccio)
